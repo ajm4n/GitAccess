@@ -4,7 +4,7 @@ phish in suits, but for github
 usage: 
 single user
 ```
-python3 ghpis.py \
+python3 gitaccess.py \
   --client_id "178c6fc778ccc68e1d6a" \
   --twl_sid "twilio sid" \
   --twl_token "twilio token" \
@@ -19,7 +19,7 @@ python3 ghpis.py \
 multi user
 
 ```
-python3 ghpis.py \
+python3 gitaccess.py \
   --client_id "178c6fc778ccc68e1d6a" \
   --twl_sid "twilio sid" \
   --twl_token "twilio token" \
